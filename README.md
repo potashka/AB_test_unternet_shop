@@ -2,6 +2,10 @@
 
 # Техническое Задание "Анализ интернет-магазина"
 
+**Стэк технологий**
+
+pandas, numpy, matplotlib, seaborn, scipy, math
+
 Часть 1. Приоритизация гипотез.
 
 В файле /datasets/hypothesis.csv 9 гипотез по увеличению выручки интернет-магазина с указанными параметрами Reach, Impact, Confidence, Effort.
